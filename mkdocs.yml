@@ -1,0 +1,22 @@
+site_name: Lakehouse Olist
+site_url: https://laurasilveirag.github.io/lakehouse-olist
+repo_url: https://github.com/laurasilveirag/lakehouse-olist
+repo_name: laurasilveirag/lakehouse-olist
+
+theme:
+  name: material
+  language: pt
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.top
+    - toc.integrate
+
+nav:
+  - Inicio: index.md
+  - Dataset: dataset.md
+  - Arquitetura Medalhao: arquitetura.md
+  - Pipeline e Job: pipeline.md
