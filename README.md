@@ -81,8 +81,8 @@ lakehouse-olist/
 │   ├── olist_orders_dataset.csv
 │   ├── olist_products_dataset.csv
 │   ├── olist_sellers_dataset.csv
-│   └── product_category_name_translation.csv
-│   # olist_geolocation_dataset.csv deve ser baixado separadamente (58 MB)
+│   ├── product_category_name_translation.csv
+│   └── olist_geolocation_dataset.csv 
 ├── docs/
 │   ├── index.md
 │   ├── dataset.md
